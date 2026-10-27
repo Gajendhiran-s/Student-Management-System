@@ -5,7 +5,7 @@ This project demonstrates a Student Management System.
 
 # View Project PPT
 
-[Click here to view the Project Presentation (PDF)](./Student_Management_System.pdf)
+[[Click here to view the Project Presentation (PDF)](https://github.com/Gajendhiran-s/Student-Management-System/blob/main/Student%20Management%20System.pdf)](./Student_Management_System.pdf)
 
 # Technologies Used
 - HTML
